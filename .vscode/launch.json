@@ -1,1 +1,175 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
         {
+            "type": "java",
+            "name": "Launch Loops$EnhancedForDemo",
+            "request": "launch",
+            "mainClass": "Loops$EnhancedForDemo",
+            "projectName": "Flexisaf-Java-Backend_d95fdc6e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Loops$ForDemo",
+            "request": "launch",
+            "mainClass": "Loops$ForDemo",
+            "projectName": "Flexisaf-Java-Backend_d95fdc6e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Loops$DoWhileDemo",
+            "request": "launch",
+            "mainClass": "Loops$DoWhileDemo",
+            "projectName": "Flexisaf-Java-Backend_d95fdc6e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Loops$WhileDemo",
+            "request": "launch",
+            "mainClass": "Loops$WhileDemo",
+            "projectName": "Flexisaf-Java-Backend_d95fdc6e"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringSwitchDemo",
+            "request": "launch",
+            "mainClass": "StringSwitchDemo",
+            "projectName": "Flexisaf-Java-Backend_d95fdc6e"
+        },
+        {
+            "type": "java",
+            "name": "Launch SwitchDemo2",
+            "request": "launch",
+            "mainClass": "SwitchDemo2",
+            "projectName": "Flexisaf-Java-Backend_d95fdc6e"
+        },
+        {
+            "type": "java",
+            "name": "Launch SwitchDemo",
+            "request": "launch",
+            "mainClass": "SwitchDemo",
+            "projectName": "Flexisaf-Java-Backend_d95fdc6e"
+        },
+        {
+            "type": "java",
+            "name": "Launch IfElseDemo",
+            "request": "launch",
+            "mainClass": "IfElseDemo",
+            "projectName": "Flexisaf-Java-Backend_d95fdc6e"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArithmeticDemo",
+            "request": "launch",
+            "mainClass": "ArithmeticDemo",
+            "projectName": "Flexisaf-Java-Backend_d95fdc6e"
+        },
+        {
+            "type": "java",
+            "name": "Launch InstanceofDemo",
+            "request": "launch",
+            "mainClass": "InstanceofDemo",
+            "projectName": "Flexisaf-Java-Backend_d95fdc6e"
+        },
+        {
+            "type": "java",
+            "name": "Launch RelationalOperations$InstanceofDemo",
+            "request": "launch",
+            "mainClass": "RelationalOperations$InstanceofDemo",
+            "projectName": "Flexisaf-Java-Backend_d95fdc6e"
+        },
+        {
+            "type": "java",
+            "name": "Launch RelationalOperations$ConditionalDemo2",
+            "request": "launch",
+            "mainClass": "RelationalOperations$ConditionalDemo2",
+            "projectName": "Flexisaf-Java-Backend_d95fdc6e"
+        },
+        {
+            "type": "java",
+            "name": "Launch RelationalOperations$ConditionalDemo1",
+            "request": "launch",
+            "mainClass": "RelationalOperations$ConditionalDemo1",
+            "projectName": "Flexisaf-Java-Backend_d95fdc6e"
+        },
+        {
+            "type": "java",
+            "name": "Launch RelationalOperations$ComparisonDemo",
+            "request": "launch",
+            "mainClass": "RelationalOperations$ComparisonDemo",
+            "projectName": "Flexisaf-Java-Backend_d95fdc6e"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArithmeticOperations$PrePostDemo",
+            "request": "launch",
+            "mainClass": "ArithmeticOperations$PrePostDemo",
+            "projectName": "Flexisaf-Java-Backend_d95fdc6e"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArithmeticOperations$UnaryDemo",
+            "request": "launch",
+            "mainClass": "ArithmeticOperations$UnaryDemo",
+            "projectName": "Flexisaf-Java-Backend_d95fdc6e"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArithmeticOperations$ConcatDemo",
+            "request": "launch",
+            "mainClass": "ArithmeticOperations$ConcatDemo",
+            "projectName": "Flexisaf-Java-Backend_d95fdc6e"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArithmeticOperations$ArithmeticDemo",
+            "request": "launch",
+            "mainClass": "ArithmeticOperations$ArithmeticDemo",
+            "projectName": "Flexisaf-Java-Backend_d95fdc6e"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayCopyOfDemo",
+            "request": "launch",
+            "mainClass": "ArrayCopyOfDemo",
+            "projectName": "Flexisaf-Java-Backend_d95fdc6e"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayCopyDemo",
+            "request": "launch",
+            "mainClass": "ArrayCopyDemo",
+            "projectName": "Flexisaf-Java-Backend_d95fdc6e"
+        },
+        {
+            "type": "java",
+            "name": "Launch MultiDimArrayDemo",
+            "request": "launch",
+            "mainClass": "MultiDimArrayDemo",
+            "projectName": "Flexisaf-Java-Backend_d95fdc6e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayDemo",
+            "request": "launch",
+            "mainClass": "ArrayDemo",
+            "projectName": "Flexisaf-Java-Backend_d95fdc6e"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelloWorldApp",
+            "request": "launch",
+            "mainClass": "HelloWorldApp",
+            "projectName": "Flexisaf-Java-Backend_d95fdc6e"
+        }
+    ]
+}
